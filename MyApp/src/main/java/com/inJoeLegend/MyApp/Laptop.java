@@ -8,4 +8,8 @@ public class Laptop implements Computer {
         System.out.println("Compiling with 404 bugs");
     }
 
+    @Override
+    public void decompile() {
+        System.out.println("I am Abhi Wanted");
+    }
 }
