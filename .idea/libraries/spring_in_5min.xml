@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-in-5min">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/spring-in-5min.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
