@@ -14,7 +14,7 @@ public class SpringJdbcApplication {
 
 		ApplicationContext context = SpringApplication.run(SpringJdbcApplication.class, args);
 		Alien a1 = context.getBean(Alien.class);
-		a1.setId(007);
+		a1.setId(107);
 		a1.setName("ABHINAV");
 		a1.setTech("JAVA");
 		AlienRepository repo = context.getBean(AlienRepository.class);
